@@ -2,13 +2,19 @@
 main:
   - title: "Home"
     url: /
+  - title: "Team Members"
+    url: /about/
   - title: "Resources"
     url: /resources/
-  - title: "About Us"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Google Search"
+    url: "https://www.google.com/"
+  - title: "Home2"
+    url: /
+  - title: "Home3"
+    url: /
+  - title: "Home4"
+    url: /
+  - title: "Home5"
+    url: /
+  - title: "Home6"
+    url: /

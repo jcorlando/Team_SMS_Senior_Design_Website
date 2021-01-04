@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Team 7 Project Site: Energy Management System"
+title                    : "Team 7 Project Site"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Energy Management System" # site tagline that appears below site title in masthead
 name                     : "Team E.M.P"
-description              : "An amazing website."
+description              : "San Diego State University Team #7 a.k.a Team E.M.P. senior design project website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "Team_EMP_Senior_Design_Website" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
