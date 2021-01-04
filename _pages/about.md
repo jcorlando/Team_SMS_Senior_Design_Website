@@ -7,19 +7,19 @@ title: "The Crew"
 
 <br>
 
-# Eissa Boland
+Eissa Boland
 
 <br>
 
-# Romilen Cruz
+Romilene Cruz
 
 <br>
 
-# Juan Carlos Orlando
+Juan Carlos Orlando
 
 <br>
 
-# Attila Rakosi
+Attila Rakosi
 
 <br>
 
