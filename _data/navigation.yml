@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Team Members"
-    url: /about/
+    url: /team_members/
   - title: "Resources"
     url: /resources/
   - title: "Google Search"

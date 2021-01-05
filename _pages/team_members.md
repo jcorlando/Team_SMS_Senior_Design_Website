@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /about/
+permalink: /team_members/
 author_profile: true
-title: "The Crew"
+title: "Team Members"
 ---
 
 <br>
