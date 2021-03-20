@@ -6,20 +6,10 @@ title: "Team Members"
 ---
 
 <br>
-
 Eissa Boland
-
 <br>
-
 Romilene Cruz
-
 <br>
-
 Juan Carlos Orlando
-
 <br>
-
 Attila Rakosi
-
-<br>
-
