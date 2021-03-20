@@ -5,13 +5,11 @@ author_profile: false
 classes: wide
 title: "Smart Home Solar Panel Micro-Grid Technology"
 sidebar:
-  - title: "Title"
+  - title: "New Title"
     image: /assets/SDSUprimary3Crgb.jpg
     text: "Some text here."
-  - label: "Google"
-    icon: "fas fa-fw fa-link"
     url: "https://www.google.com"
-  - title: "Another Title"
+  - title: "Another new Title"
     text: "More text here."
 ---
 

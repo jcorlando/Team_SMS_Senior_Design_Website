@@ -10,11 +10,4 @@ main:
     url: /media_gallery/
   - title: "Resources"
     url: /resources/
-  - title: "Home2"
-    url: /
-  - title: "Home3"
-    url: /
-  - title: "Home4"
-    url: /
-  - title: "Home5"
-    url: /
+  
