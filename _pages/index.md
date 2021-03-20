@@ -7,7 +7,7 @@ title: "Smart Home Solar Panel Micro-Grid Technology"
 sidebar:
     image: /assets/SDSUprimary3Crgb.jpg
   - title: "New Title"
-    text: "[Google](https://google.com)"
+    text: "Sample text here"
   - title: "Another new Title"
     text: "More text here."
 ---
