@@ -12,7 +12,7 @@ sidebar:
 <br>
 <div>
   <strong>Eissa Boland</strong> - Electrical Engineer
-    <img src="https://github.com/jcorlando/Team_EMP_Senior_Design_Website/blob/gh-pages/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
+    <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
     <p style="font-size: 0.7em;">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </p>
@@ -21,7 +21,7 @@ sidebar:
 <br>
 <div>
   <strong>Romilene Cruz</strong> - Electrical Engineer
-    <img src="https://github.com/jcorlando/Team_EMP_Senior_Design_Website/blob/gh-pages/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
+    <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
     <p style="font-size: 0.7em;">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </p>
@@ -30,7 +30,7 @@ sidebar:
 <br>
 <div>
 <strong>Juan Carlos Orlando</strong> - Computer Engineer
-  <img src="https://github.com/jcorlando/Team_EMP_Senior_Design_Website/blob/gh-pages/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
+  <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
   <p style="font-size: 0.7em;">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </p>
@@ -39,7 +39,7 @@ sidebar:
 <br>
 <div>
   <strong>Stephen Malolepszy</strong> - Electrical Engineer
-    <img src="https://github.com/jcorlando/Team_EMP_Senior_Design_Website/blob/gh-pages/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
+    <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
     <p style="font-size: 0.7em;">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </p>
@@ -48,7 +48,7 @@ sidebar:
 <br>
 <div>
   <strong>Attila Rakosi</strong> - Computer Engineer
-    <img src="https://github.com/jcorlando/Team_EMP_Senior_Design_Website/blob/gh-pages/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
+    <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 0.2em">
     <p style="font-size: 0.7em;">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </p>
