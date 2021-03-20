@@ -5,16 +5,13 @@ author_profile: false
 classes: wide
 title: "Smart Home Solar Panel Micro-Grid Technology"
 sidebar:
-  - title: "Title"
+  - title: "Reach us @"
     image: "/assets/SDSUprimary3Crgb.jpg"
-    text: "My favorite search engine is [Google](https://google.com)."
-  - title: "Another Title"
-    text: "More text here."
+    text: "[Video Presentation](https://google.com)."
 ---
 
 
-
-My favorite search engine is [Google](https://google.com).
+[Our Video Presentation](https://google.com).
 
 
 
