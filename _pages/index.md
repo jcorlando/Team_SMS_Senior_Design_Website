@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 author_profile: true
-title: "Innovation Through Collaboration"
+title: "Harness The Power of the Sun"
 ---
 
 
