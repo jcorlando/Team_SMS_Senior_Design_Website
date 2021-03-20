@@ -1,9 +1,8 @@
 ---
 layout: single
-permalink: /
+permalink: /tech_used/
 author_profile: false
 classes: wide
-title: "Smart Home Solar Panel Micro-Grid Technology"
 sidebar:
   - title: "About us"
     image: "/assets/SDSUprimary3Crgb.jpg"
@@ -11,7 +10,7 @@ sidebar:
 ---
 
 
-[Our Video Presentation](https://google.com)
+
 
 
 

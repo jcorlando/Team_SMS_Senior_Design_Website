@@ -4,12 +4,17 @@ main:
     url: /
   - title: "Our Goal"
     url: /goal/
-  - title: "Project Design"
-    url: /project_design/
   - title: "Team Members"
     url: /team_members/
+  - title: "Project Design"
+    url: /project_design/
+  - title: "Parts List"
+    url: /parts_list/
+  - title: "Technologies Used"
+    url: /tech_used/
   - title: "Media Gallery"
     url: /media_gallery/
   - title: "Resources"
     url: /resources/
   
+
