@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Team 7 Project Site"
+title                    : "Helios Project"
 title_separator          : "-"
 subtitle                 : "Energy Management System" # site tagline that appears below site title in masthead
-name                     : "Team E.M.P"
+name                     : "The Helios Project"
 description              : "San Diego State University Team #7 a.k.a Team E.M.P. senior design project website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

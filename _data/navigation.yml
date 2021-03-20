@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /
+  - title: "Media Gallery"
+    url: /media_gallery/
   - title: "Team Members"
     url: /team_members/
   - title: "Resources"
     url: /resources/
-  - title: "Google Search"
-    url: "https://www.google.com/"
   - title: "Home2"
     url: /
   - title: "Home3"

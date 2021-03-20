@@ -2,7 +2,7 @@
 layout: single
 permalink: /team_members/
 author_profile: true
-title: "Team Members"
+title: "Meet The Team"
 ---
 
 <br>
