@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 author_profile: true
-title: "Solar Panel Smart Grid Technology"
+title: "Smart Home Solar Panel Micro-Grid Technology"
 ---
 
 

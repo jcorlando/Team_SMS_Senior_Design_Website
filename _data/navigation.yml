@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Media Gallery"
-    url: /media_gallery/
+  - title: "Our Goal"
+    url: /goal/
   - title: "Team Members"
     url: /team_members/
+  - title: "Media Gallery"
+    url: /media_gallery/
   - title: "Resources"
     url: /resources/
   - title: "Home2"
@@ -15,6 +17,4 @@ main:
   - title: "Home4"
     url: /
   - title: "Home5"
-    url: /
-  - title: "Home6"
     url: /
