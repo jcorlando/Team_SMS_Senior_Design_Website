@@ -12,7 +12,8 @@ sidebar:
     text: "More text here."
 ---
 
-[Google](https://google.com)
+
+
 
 
 
