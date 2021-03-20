@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: /project_design/
 author_profile: false
 classes: wide
 sidebar:
