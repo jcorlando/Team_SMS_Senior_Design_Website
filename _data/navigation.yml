@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Our Goal"
     url: /goal/
+  - title: "Project Design"
+    url: /project_design/
   - title: "Team Members"
     url: /team_members/
   - title: "Media Gallery"

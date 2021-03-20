@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /media_gallery/
+permalink: /
 author_profile: false
 classes: wide
 sidebar:
@@ -8,16 +8,6 @@ sidebar:
     image: "/assets/SDSUprimary3Crgb.jpg"
     text: "[Video Presentation](https://google.com)."
 ---
-
-
-
-
-
-
-
-
-
-
 
 
 
