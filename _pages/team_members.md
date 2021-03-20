@@ -2,6 +2,7 @@
 layout: single
 permalink: /team_members/
 author_profile: false
+classes: wide
 title: "Meet the Team"
 ---
 
