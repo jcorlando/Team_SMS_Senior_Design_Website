@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 author_profile: true
-title: "Harness The Power of the Sun"
+title: "The Sun at your fingertips"
 ---
 
 
