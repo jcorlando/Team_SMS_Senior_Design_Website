@@ -7,13 +7,13 @@ title: "Team Members"
 
 <br>
 <br>
-Eissa Boland
+<strong>Eissa Boland</strong>
 <br>
 <br>
-Romilene Cruz
+<strong>Romilene Cruz</strong>
 <br>
 <br>
-Juan Carlos Orlando
+<strong>Juan Carlos Orlando</strong>
 <br>
 <br>
-Attila Rakosi
+<strong>Attila Rakosi</strong>
