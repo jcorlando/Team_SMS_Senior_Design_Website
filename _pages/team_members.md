@@ -7,19 +7,38 @@ title: "Meet the Team"
 sidebar:
   - title: "About us"
     image: "/assets/SDSUprimary3Crgb.jpg"
-    text: "Senior Design Team Helios"
+    text: "Senior Design Team Helios<br />New Line"
 ---
+<br>
+<strong>Eissa Boland</strong> - Electrical Engineer
 
-<br />
-<strong>Eissa Boland</strong>
 
-<br />
-<strong>Romilene Cruz</strong>
+<strong>Romilene Cruz</strong> - Electrical Engineer
 
-<br />
-<strong>Juan Carlos Orlando</strong>
-<a href="https://google.com">Goggle</a>
-<br />
-<strong>Attila Rakosi</strong>
 
+<div>
+<strong>Juan Carlos Orlando</strong> - Computer Engineer
+  <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 20px">
+  <p style="font-size: 0.7em;">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+</div>
+<br>
+
+<div>
+  <strong>Stephen Malolepszy</strong> - Electrical Engineer
+    <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 20px">
+    <p style="font-size: 0.7em;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+</div>
+
+<br>
+<div>
+  <strong>Attila Rakosi</strong> - Computer Engineer
+    <img src="/assets/catwithglasses.jpg" style="width:150px; float: left; padding-right: 20px">
+    <p style="font-size: 0.7em;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+</div>
 

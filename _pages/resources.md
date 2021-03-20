@@ -7,7 +7,7 @@ title: "Resources"
 sidebar:
   - title: "About us"
     image: "/assets/SDSUprimary3Crgb.jpg"
-    text: "Senior Design Team Helios"
+    text: "Senior Design Team Helios<br />New Line"
 ---
 
 

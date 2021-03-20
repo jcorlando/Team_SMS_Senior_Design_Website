@@ -11,7 +11,7 @@ sidebar:
 ---
 
 
-[Our Video Presentation](https://google.com)
+[Our Video Presentation](/)
 
 
 
