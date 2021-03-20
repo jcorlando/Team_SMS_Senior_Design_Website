@@ -9,6 +9,7 @@ sidebar:
     image: /assets/SDSUprimary3Crgb.jpg
     text: "Some text here."
   - label: "Google"
+    icon: "fas fa-fw fa-link"
     url: "https://www.google.com"
   - title: "Another Title"
     text: "More text here."
