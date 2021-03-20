@@ -11,14 +11,15 @@ sidebar:
 ---
 
 <br />
-<br />
 <strong>Eissa Boland</strong>
-<br />
+
 <br />
 <strong>Romilene Cruz</strong>
-<br />
+
 <br />
 <strong>Juan Carlos Orlando</strong>
-<br />
+<a href="https://google.com">Goggle</a>
 <br />
 <strong>Attila Rakosi</strong>
+
+
