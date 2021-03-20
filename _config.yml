@@ -92,10 +92,10 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author 
 author:
   name             : "Team Helios"
-  avatar           : /assets/SDSUprimary3Crgb.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/SDSUprimary3Crgb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Smart. Efficient. Energy."
   location         : "San Diego State University"
   email            :
