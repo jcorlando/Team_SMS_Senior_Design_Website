@@ -10,15 +10,15 @@ sidebar:
     text: "Senior Design Team Helios"
 ---
 
-<br>
-<br>
+<br />
+<br />
 <strong>Eissa Boland</strong>
-<br>
-<br>
+<br />
+<br />
 <strong>Romilene Cruz</strong>
-<br>
-<br>
+<br />
+<br />
 <strong>Juan Carlos Orlando</strong>
-<br>
-<br>
+<br />
+<br />
 <strong>Attila Rakosi</strong>
