@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /goal/
-author_profile: true
+author_profile: false
 title: "Mission Statement"
 ---
 

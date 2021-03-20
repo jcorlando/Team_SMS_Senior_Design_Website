@@ -1,9 +1,16 @@
 ---
 layout: single
 permalink: /resources/
-author_profile: true
+author_profile: false
 title: "Resources"
 ---
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,20 @@
 ---
 layout: single
 permalink: /media_gallery/
-author_profile: true
+author_profile: false
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
