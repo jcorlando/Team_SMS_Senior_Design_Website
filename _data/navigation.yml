@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Our Goal"
-    url: /goal/
+  - title: "Our Product"
+    url: /product/
   - title: "Team Members"
     url: /team_members/
   - title: "Project Design"

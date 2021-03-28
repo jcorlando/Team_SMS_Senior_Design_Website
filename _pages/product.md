@@ -1,16 +1,15 @@
 ---
 layout: single
-permalink: /goal/
+permalink: /product/
 author_profile: false
 classes: wide
-title: "Mission Statement"
+title: "Exploded View"
 sidebar:
   - title: "About us"
-    image: "/assets/SDSUprimary3Crgb.jpg"
     text: "Senior Design Team Helios<br />New Line"
 ---
 
-
+<img src="../assets/cropped_exploded_image.gif">
 
 
 
